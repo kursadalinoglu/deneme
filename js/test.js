@@ -1,2 +1,4 @@
 merhaba AudioListener
 alooal
+debugger
+addEventListener
